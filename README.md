@@ -1,2 +1,2 @@
 # hello-world
-my first depository
+my name is Alice and i am at HackPrinceton
